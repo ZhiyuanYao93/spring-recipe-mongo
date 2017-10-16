@@ -140,4 +140,6 @@ Desktop.ini
 ######################
 .eslintcache
 
+out/production
+
 
